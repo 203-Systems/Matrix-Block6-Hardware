@@ -14,7 +14,7 @@
 
 ## License:
 
-* The designs are licensed under the CERN Open Hardware Licence v1.2 - Permissive. See the LICENSE file for details.
+* The designs are licensed under the CERN Open Hardware Licence v2 - Permissive. See the LICENSE file for details.
 
 * The designs are provided as-is, and the 203 Electronics are not responsible for any damage or injury that may be caused by the use of these designs.
 
