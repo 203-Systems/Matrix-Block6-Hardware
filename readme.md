@@ -16,6 +16,6 @@
 
 * The designs are licensed under the CERN Open Hardware Licence v2 - Permissive. See the LICENSE file for details.
 
-* The designs are provided as-is, and the 203 Electronics are not responsible for any damage or injury that may be caused by the use of these designs.
+* The designs are provided as-is, and 203 Electronics is not responsible for any damage or injury that may be caused by the use of these designs.
 
-* The open source license permits private and commercial use, but the 203 Electronics reserves the rights to the design patent. We do not permit uses of the design for commercial purposes without modification. If you want to use the design for commercial purposes, please contact us for details.
+* The open source license permits private and commercial use, but 203 Electronics reserves the rights to the design patent. We do not permit uses of the design for commercial purposes without modification. If you want to use the design for commercial purposes, please contact us for details.
