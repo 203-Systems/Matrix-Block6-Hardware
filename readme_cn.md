@@ -1,7 +1,7 @@
-# Matrix Block 6 Hardware File
+# Matrix Block 6 (魔矩） Hardware File
 [English Version](readme.md)
 
-## Matrix (Block 6) 硬件设计文件
+## Matrix Block 6 (魔矩）硬件设计文件
 
 ## 内容:
 * /PCB - PCB设计文件以及原理图
