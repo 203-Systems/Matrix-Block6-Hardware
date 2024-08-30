@@ -1,7 +1,7 @@
-# Matrix Block 6 Hardware File
+# Project Matrix Block 6 (Mystrix) Hardware File
 [中文版本](readme_cn.md)
 
-## Hardware design files for 203 Electronics's Project Matrix (Block 6)
+## Hardware design files for 203 Electronics's Project Matrix Block 6 (Mystrix)
 
 ## Contents:
 * /PCB - PCB design files anc schematic
